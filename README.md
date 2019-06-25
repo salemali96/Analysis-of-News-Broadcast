@@ -1,4 +1,4 @@
-#Analysis of News Broadcast 
+# Analysis of News Broadcast 
 
 CSC420: Introduction to Image Understanding
 
