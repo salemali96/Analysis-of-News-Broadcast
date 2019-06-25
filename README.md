@@ -1,5 +1,6 @@
-# CSC420
-Introduction to Image Understanding
+# analysis of news broadcast 
+
+CSC420: Introduction to Image Understanding
 
 This project is about analysis of news broadcast. You will be given a news video clip. Here are the tasks to solve:
 (a) Detect shots in the videos. A shot is a set of consecutive frames with a smooth camera motion.
